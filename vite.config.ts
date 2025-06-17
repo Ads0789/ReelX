@@ -6,6 +6,7 @@ export default defineConfig({
   clearScreen: false,
   plugins: [
     react(),
+    
     {
       /**
        * DO NOT REMOVE
